@@ -2,6 +2,10 @@
 
 Set up a remote Azure compute instance for data science and connect to it with VSCode
 
+## Watch the Video tutorial
+
+[![Azure Remote Compute for VSCode](https://img.youtube.com/vi/Fa_ubqmJcMw/0.jpg)](https://youtu.be/Fa_ubqmJcMw "Azure Remote Compute For VSCode")
+
 ## Setup storage
 
 Setting up storage is the first step to making this environment work well. However, there is no requirement to have this done before creating the compute instance. Creating storage to attach it to the compute instance allows you to store your data separately. The compute can become ephemeral. It doesn't matter if it gets removed or reprovisioned.
